@@ -1,0 +1,16 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px; 
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
